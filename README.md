@@ -1,0 +1,1 @@
+This is my implementation of adversarial attacks against CNNs and RNNs using various methods such as Fast Gradient Sign Method, Deep Fool, FSGM for RNN, iterative and psychoacoustic attacks for speech recognition system.
